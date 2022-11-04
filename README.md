@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashantkumar22
-- 👀 I’m interested in Web Development & Android Devlopment
-- 🌱 I’m currently learning C language and basics of web technology
+- 👀 I’m interested in Web Development & Android Devlopment.
+- 🌱 I’m currently learning C language and basics of web technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - prashantsinghrajput9910@gmail.com
 
